@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duygu Analizi Sonucu</title>
+</head>
+<body>
+  {% if prediction %}
+    <h1>Duygu Analizi Sonucu</h1>
+    <p>Sonuç: {{ prediction }}</p>
+    <a href="/">Geri Dön</a>
+  {% endif %}
+</body>
+</html>
