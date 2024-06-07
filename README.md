@@ -22,9 +22,10 @@ Evaluation of the Model
 The trained model was evaluated on test data. Evaluation results are reported as accuracy and 
 
 Saving the Model
-After the training and evaluation processes, the model was recorded. The user was asked whether to retrain an existing model and the action was taken accordingly.\
+After the training and evaluation processes, the model was recorded. The user was asked whether to retrain an existing model and the action was taken accordingly. 
+important note : Please don't forget to train the model before prediction.
 
 Conclusion
 This project shows that the BERT model can be used effectively for Turkish text classification tasks. High accuracy was achieved during the training and evaluation processes. These results demonstrate the power and flexibility of BERT models in the field of natural language processing.
 
-A virtual environment is used in this project. To run it, you must go to the directory where the project is located in the terminal. Then (Source venv/bin/activate) should be written. Then, the project is run by typing python app.py.}
+A virtual environment is used in this project. To run it, you must go to the directory where the project is located in the terminal. Then (Source venv/bin/activate) should be written. Then, the project is run by typing python app.py.
