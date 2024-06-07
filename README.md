@@ -29,3 +29,5 @@ Conclusion
 This project shows that the BERT model can be used effectively for Turkish text classification tasks. High accuracy was achieved during the training and evaluation processes. These results demonstrate the power and flexibility of BERT models in the field of natural language processing.
 
 A virtual environment is used in this project. To run it, you must go to the directory where the project is located in the terminal. Then (Source venv/bin/activate) should be written. Then, the project is run by typing python app.py.
+
+https://drive.google.com/file/d/1LZV52YmyyFhXdL_MPHahB4ta-ediQUAa/view?usp=sharing
